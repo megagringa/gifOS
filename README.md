@@ -10,7 +10,6 @@ Trabajo número 2 del curso de Desarrollo Web Full Stack de Acámica.
 - HTML5
 - CSS3
 - JS(Javascript)
-- SASS
 - FontAwesome
 - Google Fonts
 - RecordRTC para obtener stream de video a través de la cámara del dispositivo para ver durante el preview de la grabación
